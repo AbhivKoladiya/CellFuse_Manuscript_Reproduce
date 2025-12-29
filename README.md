@@ -1,6 +1,7 @@
 
 This repo contains code and data to reproduce CellFuse manuscript's figure.
 As a starter install CellFuse pacakges from https://github.com/karadavis-lab/CellFuse and then download this repo.
+
 Fig 2
 Bone marrow (Fig 2A, C, D, E, I, Supplementary Fig 1 and 2)
 1.	Fig 2/BM/Reference/ Fig2_BM_prepare_data.R: Prepare bone marrow for CellFuse
