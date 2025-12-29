@@ -1,4 +1,4 @@
-# CellFuse_Manuscript_Reproduce
+
 This repo contains code and data to reproduce CellFuse manuscript's figure.
 As a starter install CellFuse pacakges from https://github.com/karadavis-lab/CellFuse and then download this repo.
 Fig 2
